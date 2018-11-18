@@ -6,3 +6,4 @@ http://www.dcjingsai.com/common/cmpt/%E8%A5%BF%E5%8D%97%E8%B4%A2%E7%BB%8F%E5%A4%
 
 参赛人：
 如梦落樱满熏香
+西南财经大学硕士二年级数量经济学
