@@ -9,9 +9,13 @@
 
 * 参赛人：
 如梦落樱满熏香
+
 （西南财经大学、统计学院、硕士二年级、数量经济学）
 
 * 成绩：
-AUC：0.75973；Rank：1st（暂时）
+AUC：0.75973；
+
+Rank：1st（暂时）
+
 
 ![演奏](https://github.com/jiy123/DataCastle-Solution/blob/master/%E6%BC%94%E5%A5%8F.jpg)  
