@@ -11,4 +11,3 @@
 如梦落樱满熏香
 （西南财经大学、统计学院、硕士二年级、数量经济学）
 
-![baidu](https://github.com/jiy123/DataCastle-Solution/blob/master/1.jpg)
